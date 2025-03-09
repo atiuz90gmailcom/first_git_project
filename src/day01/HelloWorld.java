@@ -10,7 +10,8 @@ public class HelloWorld {
 
         // more changes
 
-        // Whats up , how is your coding going on?
+        // What's up , how is your coding going on?
+        // Keep it up bro, Codeing is so much fun
         
     }
 
